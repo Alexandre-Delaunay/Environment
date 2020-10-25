@@ -1,10 +1,8 @@
 # Windows Terminal
 
-# Reference : https://dev.to/anupa/beautify-your-windows-terminal-1la8
+## Paramètres dans settings.json
 
-# Paramètres dans settings.json
-
-# Terminal powershell
+```
  {
        // Make changes here to the powershell.exe profile.
        "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
@@ -20,9 +18,11 @@
        "useAcrylic": true,
        "startingDirectory": "%HOME%"
  },
+ ```
 
-# Schemes
+## Schemes
 
+```
 "schemes": [
     {
         "name": "Blue Matrix",
@@ -46,14 +46,18 @@
         "foreground": "#b8ffe1"
     }
 ],
+```
 
-# Install Policy Cascadia Code PL
+## Install Policy Cascadia Code PL
 
-# Install Posh-git and Oh-my-posh
+## Install Posh-git and Oh-my-posh
+```
 Install-Module posh-git -Scope CurrentUser
 Install-Module oh-my-posh -Scope CurrentUser
-
-# Create your $PROFILE file 
+```
+## Create your $PROFILE file 
+```
 Import-Module posh-git
 Import-Module oh-my-posh
 Set-Theme Paradox
+```
