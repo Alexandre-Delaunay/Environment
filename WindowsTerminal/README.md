@@ -1,6 +1,6 @@
 # Windows Terminal
 
-# Paramètres dans settings.json
+## Paramètres dans settings.json
 
 ```
  {
@@ -20,7 +20,7 @@
  },
  ```
 
-# Schemes
+## Schemes
 
 ```
 "schemes": [
@@ -48,14 +48,14 @@
 ],
 ```
 
-# Install Policy Cascadia Code PL
+## Install Policy Cascadia Code PL
 
-# Install Posh-git and Oh-my-posh
+## Install Posh-git and Oh-my-posh
 ```
 Install-Module posh-git -Scope CurrentUser
 Install-Module oh-my-posh -Scope CurrentUser
 ```
-# Create your $PROFILE file 
+## Create your $PROFILE file 
 ```
 Import-Module posh-git
 Import-Module oh-my-posh
