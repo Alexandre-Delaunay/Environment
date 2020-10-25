@@ -50,40 +50,40 @@ if (-Not $myWindowsPrincipal.IsInRole($adminRole))
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 #Install Vim
-choco install vim
+choco install vim -y --params "'/NoDesktopShortcuts'"
 
 #Install Ditto
-choco install ditto --pre
+choco install ditto --pre -y
 
 #Install Git
-choco install git.install
+choco install git.install -y
 
 #Install Windows Terminal
-choco install microsoft-windows-terminal --pre
+choco install microsoft-windows-terminal --pre -y
 
 #Install Notable
-choco install notable
+choco install notable -y
 
 #Install Wireshark
-choco install wireshark
+choco install wireshark -y
 
 #Install Nmap
-choco install nmap
+choco install nmap -y
 
 #Install Google Chrome
-choco install googlechrome
+choco install googlechrome -y
 
 #Install Opera GX
-choco install opera-gx
+choco install opera-gx -y
 
 #Install Azure Data Studio
-choco install azure-data-studio
+choco install azure-data-studio -y
 
 #Install Visual Studio Code
-choco install vscode
+choco install vscode -y
 
 #Install Visual Studio 2019
-choco install visualstudio2019community
+choco install visualstudio2019community -y
 
 #Install Postman
-choco install postman
+choco install postman -y
