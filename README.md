@@ -4,7 +4,7 @@ Automation for my basic tools, profiles and wallpapers when i come in a new Wind
 
 ![Screenshot](https://github.com/Alexandre-Delaunay/Environment/blob/main/DesktopScreenshoot.PNG)
 
-## Installed Tools :
+## :heavy_check_mark: Installed Tools :
 
 * __Vim__ , one of the fastest code editor.
 * __Ditto__ , a tool to save a history of your copy/paste.
