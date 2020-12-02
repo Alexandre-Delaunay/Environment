@@ -19,7 +19,7 @@ Automation for my basic tools, profiles and wallpapers when i come in a new Wind
 * __Visual Studio Community 2019__ , a Microsft IDE used to develop, debug... .NET applications.
 * __Postman__, a tool to manage, test APIs.
 * __Drawio__, a tool to create diagrams, schemes.
-* __Python 2.7__, a programming langage used mainly in scripts.
+* __Python 2.7__, a programming language used mainly in scripts.
 
 ## :hammer: TODO :
 
