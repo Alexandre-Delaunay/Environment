@@ -16,11 +16,10 @@ Automation for my basic tools, profiles and wallpapers when i come in a new Wind
 * __Google Chrome__ , the basic browser.
 * __Opera GX__ , the last opera browser, with new GUI, customizable consumption of RAM & CPU & Network.
 * __Visual Studio Code__ , the light, open source code editor of Microsoft.
-* __Visual Studio Community 2019__
-* __Postman__
+* __Visual Studio Community 2019__ , a Microsft IDE used to develop, debug... .NET applications.
+* __Postman__, a tool to manage, test APIs.
 
 ## :hammer: TODO :
 
-* Add Drawio & Python 
 * Check for opera GX installation (BUG)
 * Add all favorites in various navigators
