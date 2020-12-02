@@ -87,3 +87,9 @@ choco install visualstudio2019community -y
 
 #Install Postman
 choco install postman -y
+
+#Install Python 2.7
+choco install python2 -y
+
+#Install Drawio
+choco install drawio -y
