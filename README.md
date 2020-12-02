@@ -18,3 +18,9 @@ Automation for my basic tools, profiles and wallpapers when i come in a new Wind
 * Visual Studio Code
 * Visual Studio Community 2019
 * Postman
+
+## TODO :
+
+* Add Drawio & Python 
+* Check for opera GX installation (BUG)
+* Add all favorites in various navigators
