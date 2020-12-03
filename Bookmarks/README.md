@@ -1,5 +1,5 @@
-# Bookmarks Import & Export
+## Bookmarks
 
-## Install Chrome/Opera extension
-
-## Import your .html file
+* Install "Installer des extensions Chrome" extensions.
+* Install "Bookmarks Import & Export" extension.
+* Import your Bookmarks.html file.
